@@ -1,2 +1,3 @@
 # LED-spass
-Wir machen spass mit led
+Wir machen spass mit LED.
+
